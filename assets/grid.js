@@ -1,9 +1,3 @@
-// function createGrid() {
-//    let counter = 4;
-//    let parentId = document.getElementById('root');
-// }
-// createGrid();
-
 /**
  * @desc
  * A Closure with all private properties & methods. Everything in the HTML document is built with pure JS to achieve complete abstraction.
